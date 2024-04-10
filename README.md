@@ -6,4 +6,4 @@ this basic api was built with .NET and PostgreSQL database
 ```sh
 $ git clone https://github.com/jamescornel7/UniversalColorTranslator.API.git
 ```
-Video Documentation about the [application](https://youtu.be/0P3iK_aPN-8): 
+Video Documentation about the Application[Click Here](https://youtu.be/0P3iK_aPN-8) 
